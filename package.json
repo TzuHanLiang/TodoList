@@ -1,0 +1,19 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "practise_todo.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TzuHanLiang/TodoList.git"
+  },
+  "author": "LizLiang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TzuHanLiang/TodoList/issues"
+  },
+  "homepage": "https://github.com/TzuHanLiang/TodoList#readme"
+}
