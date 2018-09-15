@@ -1,0 +1,9 @@
+li:hover{
+	font-size: 1.2em;
+	color: orange;
+}
+
+.done{
+	text-decoration: line-through;
+	color: darkgrey;
+}
